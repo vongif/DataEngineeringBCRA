@@ -31,8 +31,3 @@ def connect_to_db(conn_str: str):
     return conn
 
 
-
-
-
-
-
